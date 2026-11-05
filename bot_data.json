@@ -1,0 +1,2808 @@
+{
+    "processed_transactions": {
+        "1": {
+            "hash": "X0VbW44w49ypSRSByHTkkOfV8giSpld/Cix4dnjzpys=",
+            "code": "",
+            "processed_at": "2026-10-15T20:31:54.180885"
+        },
+        "2": {
+            "hash": "EaAqgEKX32PF3/JBG5x3RzA98Dyzpa4uGM5IcKYltmc=",
+            "code": "",
+            "processed_at": "2026-10-15T20:31:54.188171"
+        },
+        "3": {
+            "hash": "3oc9msJToUG4LXTuikNZKVbrHeHACkFdSh9JIcMWhyM=",
+            "code": "sword-9b3203b74e",
+            "processed_at": "2026-10-15T20:31:54.197617"
+        },
+        "4": {
+            "hash": "TAnJlRN9y+98WAN7UOh5JqJtvUrsI+haG5x/TOKWjic=",
+            "code": "sword-2cff771767",
+            "processed_at": "2026-10-15T20:31:54.208723"
+        },
+        "5": {
+            "hash": "lbGphc6xHOcKEGgL2bblIyHmMO/wrPGKMqk6ZnHEnFo=",
+            "code": "sword-7fb4417976",
+            "processed_at": "2026-10-15T20:31:54.216453"
+        },
+        "6": {
+            "hash": "+Ci6axO4rfxK/tt8mRcnzhwmRI7KrhjHnIAGbFsHYLo=",
+            "code": "sword-4e50e693c3",
+            "processed_at": "2026-10-15T20:31:54.225685"
+        },
+        "7": {
+            "hash": "5WH3+/PtCRwCQootZWIZZ+82St7SxV9K6bH6Bf7Umgo=",
+            "code": "sword-cbd8c7c063",
+            "processed_at": "2026-10-15T20:31:54.235753"
+        },
+        "8": {
+            "hash": "apNSBzM/Fhjqbw7fuT5RVZZnsFuk6b/8CnsR38WE4gc=",
+            "code": "sword-cbd8c7c063",
+            "processed_at": "2026-10-15T20:31:54.243639"
+        },
+        "9": {
+            "hash": "WjLxhEMKPM+RDfEJdvQT+/coF+5T5lC6VUe65JNeBoo=",
+            "code": "",
+            "processed_at": "2026-10-15T20:31:54.250117"
+        },
+        "10": {
+            "hash": "SgSEzB43ZzCTnWFWrkHUg3WVz/r6Q39HlKq9Zx8gV5I=",
+            "code": "",
+            "processed_at": "2026-10-15T20:31:54.257640"
+        },
+        "11": {
+            "hash": "IyuTO19wMMr3lwDszvfZWqj68MSwqSQPOFR3Sf41CAg=",
+            "code": "",
+            "processed_at": "2026-10-18T16:29:15.638362"
+        },
+        "12": {
+            "hash": "F2pWhgbio1SncO+4YaYpkxxSFgqoi7O/G+jTg02xU94=",
+            "code": "",
+            "processed_at": "2026-10-26T13:29:47.817185"
+        },
+        "13": {
+            "hash": "uZoiZ9cZ/QctPVvqhrEjnP+jLWDJkj1NMptRoLNmUBc=",
+            "code": "",
+            "processed_at": "2026-10-26T13:30:19.316049"
+        },
+        "14": {
+            "hash": "uhQfaprbi/CvC9+VgJJg+SOoFNFgwy3o5VTLuAaN0pQ=",
+            "code": "",
+            "processed_at": "2026-11-04T16:23:52.919299"
+        }
+    },
+    "users": {
+        "1": {
+            "user_id": 6997318168,
+            "username": "swordSar",
+            "balance": 44.0,
+            "purchases": 4,
+            "referrer_id": null,
+            "created_at": "2026-10-15T20:31:55.316750"
+        },
+        "2": {
+            "user_id": 6142446810,
+            "username": "loveyoueyess",
+            "balance": 129.66663920439998,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-15T21:01:27.362766"
+        },
+        "3": {
+            "user_id": 5684370386,
+            "username": "becovstvo",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-16T05:25:19.788645"
+        },
+        "4": {
+            "user_id": 7710642401,
+            "username": "Luis_Venz0",
+            "balance": 9.0,
+            "purchases": 3,
+            "referrer_id": null,
+            "created_at": "2026-10-16T07:08:24.547274"
+        },
+        "5": {
+            "user_id": 7081674046,
+            "username": "tgswatx",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-16T19:28:14.205049"
+        },
+        "6": {
+            "user_id": 936575435,
+            "username": "zebra_teror",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-17T04:37:21.221064"
+        },
+        "7": {
+            "user_id": 8175637135,
+            "username": "B1HCT0N",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-17T14:23:49.783117"
+        },
+        "8": {
+            "user_id": 6211490058,
+            "username": "ImKa1f",
+            "balance": 30.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-17T14:24:24.909957"
+        },
+        "9": {
+            "user_id": 442390439,
+            "username": "soullret",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-17T14:25:43.950204"
+        },
+        "10": {
+            "user_id": 7317621549,
+            "username": "Memodox",
+            "balance": 20.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-17T15:05:19.785575"
+        },
+        "11": {
+            "user_id": 8952637519,
+            "username": "manulsnos",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-17T15:57:42.353944"
+        },
+        "12": {
+            "user_id": 8491188538,
+            "username": "xorvanov",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-17T16:08:19.647387"
+        },
+        "13": {
+            "user_id": 6034993359,
+            "username": "Неизвестный",
+            "balance": 20.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-17T16:12:12.643910"
+        },
+        "14": {
+            "user_id": 6352201985,
+            "username": "cveux",
+            "balance": 5.0,
+            "purchases": 2,
+            "referrer_id": null,
+            "created_at": "2026-10-17T16:13:28.197070"
+        },
+        "15": {
+            "user_id": 7133359687,
+            "username": "cvlrneonov",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-17T16:15:01.061552"
+        },
+        "16": {
+            "user_id": 5594692433,
+            "username": "Неизвестный",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-17T16:22:54.479506"
+        },
+        "17": {
+            "user_id": 7826066389,
+            "username": "iandalias",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-17T16:29:28.414515"
+        },
+        "18": {
+            "user_id": 8346970698,
+            "username": "Неизвестный",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-17T17:18:21.243057"
+        },
+        "19": {
+            "user_id": 8667053315,
+            "username": "Larpseer",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-17T17:42:26.697440"
+        },
+        "20": {
+            "user_id": 6273451438,
+            "username": "amnesiahunt",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-17T17:45:55.370411"
+        },
+        "21": {
+            "user_id": 8455155018,
+            "username": "Uxdyr",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-17T17:50:25.083087"
+        },
+        "22": {
+            "user_id": 8306106126,
+            "username": "detskaiatravma",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-17T19:55:59.657712"
+        },
+        "23": {
+            "user_id": 6839643258,
+            "username": "geoqp",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T11:34:44.908815"
+        },
+        "24": {
+            "user_id": 6546594298,
+            "username": "yyaaayyyay",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T11:35:36.868524"
+        },
+        "25": {
+            "user_id": 8133780330,
+            "username": "melaqe",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T11:47:19.085800"
+        },
+        "26": {
+            "user_id": 5871951664,
+            "username": "Vampire127",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T14:15:03.544941"
+        },
+        "27": {
+            "user_id": 6178971509,
+            "username": "Неизвестный",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T14:22:47.791693"
+        },
+        "28": {
+            "user_id": 1631252358,
+            "username": "exemz",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T14:22:51.005710"
+        },
+        "29": {
+            "user_id": 5953731042,
+            "username": "Mamkinreper73",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T14:31:36.030659"
+        },
+        "30": {
+            "user_id": 6370682166,
+            "username": "masyakm",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T14:33:00.396206"
+        },
+        "31": {
+            "user_id": 8667991240,
+            "username": "loliitaai",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T14:34:02.189158"
+        },
+        "32": {
+            "user_id": 7034293780,
+            "username": "anstinana",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T14:34:33.124065"
+        },
+        "33": {
+            "user_id": 8494447745,
+            "username": "sakharevi4",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T14:37:50.309835"
+        },
+        "34": {
+            "user_id": 8140654482,
+            "username": "filki77",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T14:52:07.658360"
+        },
+        "35": {
+            "user_id": 6730432935,
+            "username": "deolumod",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T14:57:10.434129"
+        },
+        "36": {
+            "user_id": 1290166168,
+            "username": "rumxkkzy",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T14:59:40.253614"
+        },
+        "37": {
+            "user_id": 8629000812,
+            "username": "Неизвестный",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T15:04:33.700047"
+        },
+        "38": {
+            "user_id": 7163038695,
+            "username": "zhxnwqs",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T15:04:34.176338"
+        },
+        "39": {
+            "user_id": 8668294876,
+            "username": "SaintKamensky",
+            "balance": 0.0,
+            "purchases": 3,
+            "referrer_id": null,
+            "created_at": "2026-10-18T15:09:58.810387"
+        },
+        "40": {
+            "user_id": 6188815949,
+            "username": "dniksl",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T15:10:14.856767"
+        },
+        "41": {
+            "user_id": 7816838595,
+            "username": "Neumann_n",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T15:12:10.959975"
+        },
+        "42": {
+            "user_id": 8470759856,
+            "username": "anxgelxq",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T15:16:08.654545"
+        },
+        "43": {
+            "user_id": 6163775235,
+            "username": "typical_situation",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T15:19:42.476799"
+        },
+        "44": {
+            "user_id": 8238772109,
+            "username": "QWERZ016",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T15:20:24.124024"
+        },
+        "45": {
+            "user_id": 7924006882,
+            "username": "Ahmadik_05",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T15:21:15.811987"
+        },
+        "46": {
+            "user_id": 7735609115,
+            "username": "xydere",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T15:27:15.404888"
+        },
+        "47": {
+            "user_id": 8606742179,
+            "username": "Неизвестный",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T15:30:22.624447"
+        },
+        "48": {
+            "user_id": 7885496202,
+            "username": "zpkz77",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T15:35:33.437542"
+        },
+        "49": {
+            "user_id": 5498572986,
+            "username": "howoji",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T15:35:49.385842"
+        },
+        "50": {
+            "user_id": 7648249157,
+            "username": "taitlov",
+            "balance": 25.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T15:38:29.117923"
+        },
+        "51": {
+            "user_id": 7671499194,
+            "username": "prukiss",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T15:39:36.127211"
+        },
+        "52": {
+            "user_id": 1139576659,
+            "username": "xwinx",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T15:39:36.536652"
+        },
+        "53": {
+            "user_id": 7227078892,
+            "username": "lolusername20",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T15:40:12.541994"
+        },
+        "54": {
+            "user_id": 6483287646,
+            "username": "h1dnexx",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T15:55:00.120502"
+        },
+        "55": {
+            "user_id": 8336613163,
+            "username": "Lortexchapman",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T15:55:52.143899"
+        },
+        "56": {
+            "user_id": 7186927030,
+            "username": "toniiqqxx",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T15:59:22.690105"
+        },
+        "57": {
+            "user_id": 1648720418,
+            "username": "bosuerrr",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T16:02:32.111389"
+        },
+        "58": {
+            "user_id": 8355132220,
+            "username": "kydasovich",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T16:07:58.898248"
+        },
+        "59": {
+            "user_id": 2095418632,
+            "username": "artemsvt",
+            "balance": 0.0,
+            "purchases": 1,
+            "referrer_id": null,
+            "created_at": "2026-10-18T16:13:17.523145"
+        },
+        "60": {
+            "user_id": 8266322407,
+            "username": "Неизвестный",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T16:17:54.739821"
+        },
+        "61": {
+            "user_id": 1852390573,
+            "username": "Durov_btw",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T16:27:42.548679"
+        },
+        "62": {
+            "user_id": 7294159457,
+            "username": "moserbro",
+            "balance": 19.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T16:27:53.914231"
+        },
+        "63": {
+            "user_id": 8009086246,
+            "username": "VASILINKALOL",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T16:35:55.416799"
+        },
+        "64": {
+            "user_id": 6265337294,
+            "username": "Mlotix",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T17:03:16.417738"
+        },
+        "65": {
+            "user_id": 8736675606,
+            "username": "theinjectioncookedmybrain",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T17:04:28.812746"
+        },
+        "66": {
+            "user_id": 1989231218,
+            "username": "malyshsuka_mma",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T17:06:23.302699"
+        },
+        "67": {
+            "user_id": 6015136361,
+            "username": "wir4tys",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T17:08:47.858495"
+        },
+        "68": {
+            "user_id": 7186813375,
+            "username": "trepaa1",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T17:51:01.979949"
+        },
+        "69": {
+            "user_id": 5238519295,
+            "username": "gats0",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T17:58:07.325009"
+        },
+        "70": {
+            "user_id": 8915026579,
+            "username": "qxwrnss",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T18:00:10.150014"
+        },
+        "71": {
+            "user_id": 7056603984,
+            "username": "steshkaetoi",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T18:28:58.191432"
+        },
+        "72": {
+            "user_id": 7394083168,
+            "username": "the_palaceoftears",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T18:30:33.138957"
+        },
+        "73": {
+            "user_id": 5225328080,
+            "username": "klinllm",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T18:35:30.191701"
+        },
+        "74": {
+            "user_id": 8484640121,
+            "username": "wxexi",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T18:44:36.581982"
+        },
+        "75": {
+            "user_id": 7584065359,
+            "username": "dashasha14",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T18:49:11.226319"
+        },
+        "76": {
+            "user_id": 6808184970,
+            "username": "egorlox113",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T18:51:57.394627"
+        },
+        "77": {
+            "user_id": 5098968656,
+            "username": "DiLoN21",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T18:52:16.974247"
+        },
+        "78": {
+            "user_id": 953564475,
+            "username": "NoRyzer",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T19:49:02.136359"
+        },
+        "79": {
+            "user_id": 7319005186,
+            "username": "amirzovgod",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T19:52:50.785500"
+        },
+        "80": {
+            "user_id": 8874796039,
+            "username": "bluuik",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T20:15:58.761994"
+        },
+        "81": {
+            "user_id": 8370584907,
+            "username": "peredoz_xz",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T20:22:38.961531"
+        },
+        "82": {
+            "user_id": 7950871109,
+            "username": "ddixp",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-18T23:24:25.793207"
+        },
+        "83": {
+            "user_id": 6521421611,
+            "username": "ssdwxr2",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-19T02:37:54.436528"
+        },
+        "84": {
+            "user_id": 7207281675,
+            "username": "vonuchiyLexa",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-19T04:02:32.004659"
+        },
+        "85": {
+            "user_id": 8200809970,
+            "username": "samylal",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-19T04:10:18.350734"
+        },
+        "86": {
+            "user_id": 7714011876,
+            "username": "samyluluka",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-19T04:11:05.642001"
+        },
+        "87": {
+            "user_id": 5065628902,
+            "username": "Crystal_Flakes",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-19T04:35:04.757092"
+        },
+        "88": {
+            "user_id": 8042537938,
+            "username": "soduin",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-19T05:28:24.496998"
+        },
+        "89": {
+            "user_id": 8600593172,
+            "username": "residentsr",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-19T06:46:43.228049"
+        },
+        "90": {
+            "user_id": 824562878,
+            "username": "KRIZERRRR",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-19T06:47:27.474220"
+        },
+        "91": {
+            "user_id": 8074481417,
+            "username": "bulbamet67",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-19T07:01:17.704042"
+        },
+        "92": {
+            "user_id": 8371439368,
+            "username": "ubleg",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-19T07:10:40.162646"
+        },
+        "93": {
+            "user_id": 6082024988,
+            "username": "moozza10",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-19T09:35:22.701899"
+        },
+        "94": {
+            "user_id": 7632682746,
+            "username": "k5chal0t",
+            "balance": 0.0,
+            "purchases": 1,
+            "referrer_id": null,
+            "created_at": "2026-10-19T09:35:32.185290"
+        },
+        "95": {
+            "user_id": 1680868635,
+            "username": "pokti_4",
+            "balance": 1.0,
+            "purchases": 3,
+            "referrer_id": null,
+            "created_at": "2026-10-19T09:53:16.538015"
+        },
+        "96": {
+            "user_id": 8646084643,
+            "username": "Opermoskov777",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-19T09:53:34.611193"
+        },
+        "97": {
+            "user_id": 6458797564,
+            "username": "Glitch_spb",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-19T14:32:15.470733"
+        },
+        "98": {
+            "user_id": 7639274277,
+            "username": "tran_ss1",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-19T14:46:13.516509"
+        },
+        "99": {
+            "user_id": 5728242958,
+            "username": "Haxren_Obshectvo",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-19T15:01:12.720910"
+        },
+        "100": {
+            "user_id": 8675508569,
+            "username": "oezoy",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-19T16:08:13.128944"
+        },
+        "101": {
+            "user_id": 1181940422,
+            "username": "soplevar",
+            "balance": 0.0,
+            "purchases": 2,
+            "referrer_id": null,
+            "created_at": "2026-10-19T17:25:30.704970"
+        },
+        "102": {
+            "user_id": 5596949821,
+            "username": "Tvooo77",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-19T17:59:09.439667"
+        },
+        "103": {
+            "user_id": 8876252636,
+            "username": "Неизвестный",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-19T18:41:04.287034"
+        },
+        "104": {
+            "user_id": 8788201346,
+            "username": "santiagoflin",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-20T12:14:48.688671"
+        },
+        "105": {
+            "user_id": 8112537425,
+            "username": "lednikcore",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-20T12:39:58.252971"
+        },
+        "106": {
+            "user_id": 8408082414,
+            "username": "smslaverancia",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-20T13:09:51.215371"
+        },
+        "107": {
+            "user_id": 5127309007,
+            "username": "Неизвестный",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-20T14:47:18.245166"
+        },
+        "108": {
+            "user_id": 8701136645,
+            "username": "vinlarp",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-20T17:03:29.860551"
+        },
+        "109": {
+            "user_id": 7824409301,
+            "username": "xeonew",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-20T17:37:50.843827"
+        },
+        "110": {
+            "user_id": 8219714884,
+            "username": "raze1007",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-20T18:53:54.150667"
+        },
+        "111": {
+            "user_id": 6825332762,
+            "username": "nunoke",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-20T18:56:59.130221"
+        },
+        "112": {
+            "user_id": 8615490144,
+            "username": "dombrovskiyl1",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-20T19:07:26.732970"
+        },
+        "113": {
+            "user_id": 8745342201,
+            "username": "naivniy1",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-20T19:07:33.003672"
+        },
+        "114": {
+            "user_id": 8598985057,
+            "username": "Iersooon",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-20T20:08:31.498878"
+        },
+        "115": {
+            "user_id": 8461796472,
+            "username": "vernalkre52",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-20T20:15:01.642016"
+        },
+        "116": {
+            "user_id": 1613046866,
+            "username": "Неизвестный",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-21T07:34:39.672548"
+        },
+        "117": {
+            "user_id": 5410996420,
+            "username": "avramuq",
+            "balance": 20.071124274,
+            "purchases": 3,
+            "referrer_id": null,
+            "created_at": "2026-10-21T09:22:34.251837"
+        },
+        "118": {
+            "user_id": 2060657634,
+            "username": "nkamazikn",
+            "balance": 0.0,
+            "purchases": 1,
+            "referrer_id": null,
+            "created_at": "2026-10-21T10:43:15.669659"
+        },
+        "119": {
+            "user_id": 6485927072,
+            "username": "RoisRoma",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-21T12:02:53.701529"
+        },
+        "120": {
+            "user_id": 7907938559,
+            "username": "Zelenyshk",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-21T14:08:46.845192"
+        },
+        "121": {
+            "user_id": 8116790535,
+            "username": "tiozow",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-21T18:17:18.290696"
+        },
+        "122": {
+            "user_id": 8819885300,
+            "username": "YoureIucky",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-21T18:56:16.701565"
+        },
+        "123": {
+            "user_id": 6534394822,
+            "username": "ggggeeroun",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-21T22:26:27.399929"
+        },
+        "124": {
+            "user_id": 5185368096,
+            "username": "pm_zefirko228",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-22T05:50:21.006254"
+        },
+        "125": {
+            "user_id": 8987738611,
+            "username": "k1or1_84",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-22T09:07:40.598620"
+        },
+        "126": {
+            "user_id": 8757661482,
+            "username": "Неизвестный",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-22T09:21:00.401980"
+        },
+        "127": {
+            "user_id": 8492973732,
+            "username": "heavenllyemptthy",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-22T13:44:06.712304"
+        },
+        "128": {
+            "user_id": 8469743014,
+            "username": "gazan_top_67_huligan",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-22T14:19:34.526797"
+        },
+        "129": {
+            "user_id": 5708141435,
+            "username": "Неизвестный",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-22T16:12:17.050335"
+        },
+        "130": {
+            "user_id": 5501217098,
+            "username": "baaef",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-22T16:23:12.734965"
+        },
+        "131": {
+            "user_id": 8029919344,
+            "username": "NotSo_CoolGu677",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-22T17:14:42.823167"
+        },
+        "132": {
+            "user_id": 1676186986,
+            "username": "PoZITIVomg",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-22T17:36:22.767327"
+        },
+        "133": {
+            "user_id": 8730836285,
+            "username": "realnormal",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-22T17:41:15.250633"
+        },
+        "134": {
+            "user_id": 6570316622,
+            "username": "mqwerio",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-22T18:13:34.047704"
+        },
+        "135": {
+            "user_id": 5334981591,
+            "username": "uxegii",
+            "balance": 20.0,
+            "purchases": 1,
+            "referrer_id": null,
+            "created_at": "2026-10-22T18:54:16.480380"
+        },
+        "136": {
+            "user_id": 7890607937,
+            "username": "Неизвестный",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-22T19:25:36.972109"
+        },
+        "137": {
+            "user_id": 5994283673,
+            "username": "Неизвестный",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-22T19:28:49.502231"
+        },
+        "138": {
+            "user_id": 8085035129,
+            "username": "maxlssi",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-22T20:18:05.495977"
+        },
+        "139": {
+            "user_id": 8588697524,
+            "username": "acvalizok",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-22T20:23:04.498647"
+        },
+        "140": {
+            "user_id": 2120497959,
+            "username": "tisserann",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-23T06:37:55.459880"
+        },
+        "141": {
+            "user_id": 8665950530,
+            "username": "astepater",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-23T10:35:36.000917"
+        },
+        "142": {
+            "user_id": 8733376613,
+            "username": "Неизвестный",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-23T10:42:33.525317"
+        },
+        "143": {
+            "user_id": 8084852971,
+            "username": "cuteHysteria",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-23T12:05:25.127822"
+        },
+        "144": {
+            "user_id": 1346057354,
+            "username": "evmilka",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-23T13:15:15.644695"
+        },
+        "145": {
+            "user_id": 8688653743,
+            "username": "Неизвестный",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-23T17:38:32.837209"
+        },
+        "146": {
+            "user_id": 8828491263,
+            "username": "Nurimsky",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-23T19:39:54.107205"
+        },
+        "147": {
+            "user_id": 8313840365,
+            "username": "vibwb",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-23T19:41:37.630083"
+        },
+        "148": {
+            "user_id": 8681418442,
+            "username": "sychkaalica",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-23T19:47:15.057746"
+        },
+        "149": {
+            "user_id": 8932233338,
+            "username": "NnEiterez",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-24T01:51:18.820618"
+        },
+        "150": {
+            "user_id": 6608621525,
+            "username": "FB_RMA",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-24T07:15:35.587202"
+        },
+        "151": {
+            "user_id": 7474289190,
+            "username": "ma_gic27",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-24T07:27:35.359503"
+        },
+        "152": {
+            "user_id": 8583574875,
+            "username": "llIllIIllIlII",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-24T12:41:37.758092"
+        },
+        "153": {
+            "user_id": 6937645325,
+            "username": "youngkazuya",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-24T15:48:47.697169"
+        },
+        "154": {
+            "user_id": 7495161144,
+            "username": "dryfors",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-24T16:27:15.675784"
+        },
+        "155": {
+            "user_id": 7810090423,
+            "username": "Неизвестный",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-25T13:16:25.006272"
+        },
+        "156": {
+            "user_id": 1339524550,
+            "username": "Неизвестный",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-25T13:45:03.234385"
+        },
+        "157": {
+            "user_id": 8389145338,
+            "username": "Неизвестный",
+            "balance": 10.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-25T14:37:19.277409"
+        },
+        "158": {
+            "user_id": 7261187250,
+            "username": "I_Lord_void",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-25T14:42:59.129268"
+        },
+        "159": {
+            "user_id": 1818823565,
+            "username": "Неизвестный",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-25T15:39:33.161737"
+        },
+        "160": {
+            "user_id": 1158000725,
+            "username": "trendsetteerrr",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-25T16:02:12.998972"
+        },
+        "161": {
+            "user_id": 7596667141,
+            "username": "gart1488",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-25T19:01:48.504925"
+        },
+        "162": {
+            "user_id": 6196248162,
+            "username": "Неизвестный",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-26T16:32:59.239512"
+        },
+        "163": {
+            "user_id": 6868811284,
+            "username": "polly_krn",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-26T18:11:12.393928"
+        },
+        "164": {
+            "user_id": 5348776602,
+            "username": "Chochoch_1",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-26T20:09:43.293741"
+        },
+        "165": {
+            "user_id": 7235227892,
+            "username": "Swirkizi",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-26T21:16:13.029628"
+        },
+        "166": {
+            "user_id": 7065268377,
+            "username": "AnnaSergeevnazxc",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-27T10:15:56.185579"
+        },
+        "167": {
+            "user_id": 6141155437,
+            "username": "Неизвестный",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-27T16:02:31.784183"
+        },
+        "168": {
+            "user_id": 8431793817,
+            "username": "Swelloow",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-27T16:25:31.765564"
+        },
+        "169": {
+            "user_id": 7368902078,
+            "username": "bluyy",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-27T16:37:42.654409"
+        },
+        "170": {
+            "user_id": 7807194676,
+            "username": "bllatrs",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-27T16:43:46.562254"
+        },
+        "171": {
+            "user_id": 7743306608,
+            "username": "GIGI9132",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-27T16:47:30.988549"
+        },
+        "172": {
+            "user_id": 8161979413,
+            "username": "Неизвестный",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-27T18:41:57.650548"
+        },
+        "173": {
+            "user_id": 8417138991,
+            "username": "chackov",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-27T21:39:52.575770"
+        },
+        "174": {
+            "user_id": 6526083910,
+            "username": "fadside",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-27T22:08:32.148492"
+        },
+        "175": {
+            "user_id": 7622869089,
+            "username": "YWTeam_Miku",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-28T03:46:25.328025"
+        },
+        "176": {
+            "user_id": 5040464321,
+            "username": "olyxw",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-28T09:16:13.797977"
+        },
+        "177": {
+            "user_id": 2097771845,
+            "username": "q1werty4",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-28T13:03:38.274530"
+        },
+        "178": {
+            "user_id": 5345860472,
+            "username": "wallk2k",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-28T15:19:46.974388"
+        },
+        "179": {
+            "user_id": 1076925066,
+            "username": "Fr0GicH02",
+            "balance": 0.0,
+            "purchases": 1,
+            "referrer_id": null,
+            "created_at": "2026-10-28T15:57:18.284892"
+        },
+        "180": {
+            "user_id": 8809716195,
+            "username": "gunvers",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-28T16:33:41.464106"
+        },
+        "181": {
+            "user_id": 5319414369,
+            "username": "Yanchikk0_0",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-29T14:39:39.614996"
+        },
+        "182": {
+            "user_id": 8603724636,
+            "username": "ABUmatvi",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-29T16:44:04.011027"
+        },
+        "183": {
+            "user_id": 7413611781,
+            "username": "Kawex122",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-29T17:57:12.508877"
+        },
+        "184": {
+            "user_id": 7916582097,
+            "username": "trupovman",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-29T21:27:24.061762"
+        },
+        "185": {
+            "user_id": 6398870248,
+            "username": "Egorsigma5252",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-30T06:25:09.231015"
+        },
+        "186": {
+            "user_id": 6206657117,
+            "username": "youruller",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-30T10:46:21.849814"
+        },
+        "187": {
+            "user_id": 5256756386,
+            "username": "emwzs",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-31T19:44:32.120262"
+        },
+        "188": {
+            "user_id": 8308188125,
+            "username": "Mafled1",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-31T19:44:33.125319"
+        },
+        "189": {
+            "user_id": 7464394205,
+            "username": "mellontyes",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-31T19:44:33.177269"
+        },
+        "190": {
+            "user_id": 8225370135,
+            "username": "primanka07",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-31T19:44:33.202726"
+        },
+        "191": {
+            "user_id": 1605227113,
+            "username": "Yakuttr70",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-31T19:44:33.331640"
+        },
+        "192": {
+            "user_id": 5756015540,
+            "username": "migelch1k",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-31T19:44:33.467769"
+        },
+        "193": {
+            "user_id": 8037081373,
+            "username": "QuIuIkUTPu",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-31T19:44:33.657797"
+        },
+        "194": {
+            "user_id": 5653201764,
+            "username": "Beelikes222",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-31T19:44:33.783236"
+        },
+        "195": {
+            "user_id": 8636141792,
+            "username": "Gorakhpuk",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-10-31T19:44:33.930261"
+        },
+        "196": {
+            "user_id": 8341096604,
+            "username": "ruiedm",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-11-01T02:47:14.685525"
+        },
+        "197": {
+            "user_id": 7992616550,
+            "username": "Gangstaso",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-11-01T03:33:18.075054"
+        },
+        "198": {
+            "user_id": 5606005704,
+            "username": "AKMS_22",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-11-01T19:57:32.457551"
+        },
+        "199": {
+            "user_id": 5762004476,
+            "username": "One_1771",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-11-02T12:06:39.507612"
+        },
+        "200": {
+            "user_id": 7127038971,
+            "username": "YMEPEHOCTO",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-11-02T18:49:39.242550"
+        },
+        "201": {
+            "user_id": 1349046809,
+            "username": "Loli_in_earli_20s",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-11-02T22:00:12.446197"
+        },
+        "202": {
+            "user_id": 8376798096,
+            "username": "Dahackaa",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-11-02T23:02:13.007649"
+        },
+        "203": {
+            "user_id": 1087686002,
+            "username": "yaloh1234",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-11-03T13:52:21.429113"
+        },
+        "204": {
+            "user_id": 1895086803,
+            "username": "JINGXT25",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-11-03T14:46:49.429128"
+        },
+        "205": {
+            "user_id": 5640545605,
+            "username": "wizard2284",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-11-03T18:19:41.978061"
+        },
+        "206": {
+            "user_id": 6197352705,
+            "username": "logtofjwvgr",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-11-04T12:43:09.295790"
+        },
+        "207": {
+            "user_id": 6773960527,
+            "username": "xillikx",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-11-04T15:19:44.029787"
+        },
+        "208": {
+            "user_id": 6414884558,
+            "username": "dollz777",
+            "balance": 0.0,
+            "purchases": 0,
+            "referrer_id": null,
+            "created_at": "2026-11-04T15:33:43.812169"
+        }
+    },
+    "pending_payments": {
+        "1": {
+            "user_id": 6997318168,
+            "amount": 900.0,
+            "invoice_id": 67400138,
+            "status": "pending",
+            "created_at": "2026-10-15T20:33:17.964226"
+        },
+        "2": {
+            "user_id": 8484640121,
+            "amount": 65.0,
+            "invoice_id": 67697189,
+            "status": "pending",
+            "created_at": "2026-10-18T18:45:12.030361"
+        },
+        "3": {
+            "user_id": 8484640121,
+            "amount": 65.0,
+            "invoice_id": 67697291,
+            "status": "pending",
+            "created_at": "2026-10-18T18:46:52.034209"
+        },
+        "4": {
+            "user_id": 6142446810,
+            "amount": 10.0,
+            "invoice_id": 67878245,
+            "status": "pending",
+            "created_at": "2026-10-20T17:48:32.662999"
+        },
+        "5": {
+            "user_id": 6142446810,
+            "amount": 10.0,
+            "invoice_id": 67878284,
+            "status": "pending",
+            "created_at": "2026-10-20T17:49:11.487407"
+        },
+        "6": {
+            "user_id": 6142446810,
+            "amount": 900.0,
+            "invoice_id": 67878391,
+            "status": "pending",
+            "created_at": "2026-10-20T17:49:54.154977"
+        },
+        "7": {
+            "user_id": 5410996420,
+            "amount": 50.0,
+            "invoice_id": 67930840,
+            "status": "pending",
+            "created_at": "2026-10-21T09:23:16.774188"
+        },
+        "8": {
+            "user_id": 5410996420,
+            "amount": 60.0,
+            "invoice_id": 67935812,
+            "status": "pending",
+            "created_at": "2026-10-21T10:41:44.945685"
+        },
+        "9": {
+            "user_id": 5410996420,
+            "amount": 50.0,
+            "invoice_id": 67935818,
+            "status": "pending",
+            "created_at": "2026-10-21T10:41:59.430839"
+        },
+        "10": {
+            "user_id": 2060657634,
+            "amount": 46.0,
+            "invoice_id": 67936408,
+            "status": "pending",
+            "created_at": "2026-10-21T10:50:08.221981"
+        },
+        "11": {
+            "user_id": 8745342201,
+            "amount": 100.0,
+            "invoice_id": 67954533,
+            "status": "pending",
+            "created_at": "2026-10-21T14:47:11.559978"
+        },
+        "12": {
+            "user_id": 6142446810,
+            "amount": 10.0,
+            "invoice_id": 68062395,
+            "status": "pending",
+            "created_at": "2026-10-22T17:52:39.641252"
+        }
+    },
+    "pending_deposits": {
+        "1": {
+            "user_id": 6997318168,
+            "amount_rub": 50.0,
+            "amount_crypto": 0.43092602217082704,
+            "currency": "GRAM",
+            "code": "sword-127945dc41",
+            "status": "pending",
+            "created_at": "2026-10-15T20:33:31.469476"
+        },
+        "2": {
+            "user_id": 6997318168,
+            "amount_rub": 600.0,
+            "amount_crypto": 7.161106516935052,
+            "currency": "USDT",
+            "code": "sword-49e66a6c4d",
+            "status": "pending",
+            "created_at": "2026-10-15T20:33:45.541336"
+        },
+        "3": {
+            "user_id": 8009086246,
+            "amount_rub": 50.0,
+            "amount_crypto": 0.5950415918905121,
+            "currency": "USDT",
+            "code": "sword-ed51fe9d1b",
+            "status": "pending",
+            "created_at": "2026-10-18T16:38:27.716756"
+        },
+        "4": {
+            "user_id": 6997318168,
+            "amount_rub": 900.0,
+            "amount_crypto": 10.710380467308728,
+            "currency": "USDT",
+            "code": "sword-db8067c52e",
+            "status": "pending",
+            "created_at": "2026-10-18T19:46:49.738622"
+        },
+        "5": {
+            "user_id": 6997318168,
+            "amount_rub": 700.0,
+            "amount_crypto": 6.238952240514177,
+            "currency": "GRAM",
+            "code": "sword-8ec17a0326",
+            "status": "pending",
+            "created_at": "2026-10-18T19:47:10.132750"
+        },
+        "6": {
+            "user_id": 6997318168,
+            "amount_rub": 90.0,
+            "amount_crypto": 1.1041858989830333,
+            "currency": "USDT",
+            "code": "sword-388d5df56e",
+            "status": "pending",
+            "created_at": "2026-10-25T19:07:44.483437"
+        }
+    },
+    "topup_history": {
+        "1": {
+            "user_id": 6997318168,
+            "amount": 100.0,
+            "method": "Админ",
+            "created_at": "2026-10-15T20:35:36.083651"
+        },
+        "2": {
+            "user_id": 6997318168,
+            "amount": 100.0,
+            "method": "Админ",
+            "created_at": "2026-10-15T20:56:15.716013"
+        },
+        "3": {
+            "user_id": 6997318168,
+            "amount": 10.0,
+            "method": "Stars",
+            "created_at": "2026-10-17T19:12:59.117664"
+        },
+        "4": {
+            "user_id": 6997318168,
+            "amount": 9.0,
+            "method": "Админ",
+            "created_at": "2026-10-18T10:47:32.898864"
+        },
+        "5": {
+            "user_id": 8668294876,
+            "amount": 41.0,
+            "method": "Stars",
+            "created_at": "2026-10-18T15:23:24.776536"
+        },
+        "6": {
+            "user_id": 2095418632,
+            "amount": 43.0,
+            "method": "Stars",
+            "created_at": "2026-10-18T17:11:45.105644"
+        },
+        "7": {
+            "user_id": 8668294876,
+            "amount": 75.0,
+            "method": "Stars",
+            "created_at": "2026-10-18T17:12:15.055310"
+        },
+        "8": {
+            "user_id": 8668294876,
+            "amount": 5.0,
+            "method": "Админ",
+            "created_at": "2026-10-18T17:14:34.709189"
+        },
+        "9": {
+            "user_id": 7710642401,
+            "amount": 20.0,
+            "method": "Stars",
+            "created_at": "2026-10-19T09:23:08.760061"
+        },
+        "10": {
+            "user_id": 7632682746,
+            "amount": 45.0,
+            "method": "Stars",
+            "created_at": "2026-10-19T09:44:57.964099"
+        },
+        "11": {
+            "user_id": 1680868635,
+            "amount": 40.0,
+            "method": "Stars",
+            "created_at": "2026-10-19T11:26:53.549941"
+        },
+        "12": {
+            "user_id": 6352201985,
+            "amount": 78.0,
+            "method": "Админ",
+            "created_at": "2026-10-19T13:21:48.080371"
+        },
+        "13": {
+            "user_id": 6352201985,
+            "amount": 1.0,
+            "method": "Админ",
+            "created_at": "2026-10-19T13:22:00.886555"
+        },
+        "14": {
+            "user_id": 6352201985,
+            "amount": 10.0,
+            "method": "Админ",
+            "created_at": "2026-10-19T13:25:58.947437"
+        },
+        "15": {
+            "user_id": 1181940422,
+            "amount": 42.0,
+            "method": "Stars",
+            "created_at": "2026-10-19T17:35:17.094564"
+        },
+        "16": {
+            "user_id": 1181940422,
+            "amount": 42.0,
+            "method": "Админ",
+            "created_at": "2026-10-19T18:38:45.295401"
+        },
+        "17": {
+            "user_id": 1680868635,
+            "amount": 45.0,
+            "method": "Stars",
+            "created_at": "2026-10-20T15:14:17.492623"
+        },
+        "18": {
+            "user_id": 6142446810,
+            "amount": 9.925376736,
+            "method": "Crypto Bot",
+            "created_at": "2026-10-20T17:48:47.394224"
+        },
+        "19": {
+            "user_id": 6142446810,
+            "amount": 9.925376736,
+            "method": "Crypto Bot",
+            "created_at": "2026-10-20T17:49:37.774408"
+        },
+        "20": {
+            "user_id": 7294159457,
+            "amount": 19.0,
+            "method": "Stars",
+            "created_at": "2026-10-21T07:07:21.972036"
+        },
+        "21": {
+            "user_id": 5410996420,
+            "amount": 50.0250930486,
+            "method": "Crypto Bot",
+            "created_at": "2026-10-21T09:23:41.446137"
+        },
+        "22": {
+            "user_id": 5410996420,
+            "amount": 50.0460312254,
+            "method": "Crypto Bot",
+            "created_at": "2026-10-21T10:42:14.411136"
+        },
+        "23": {
+            "user_id": 2060657634,
+            "amount": 41.0,
+            "method": "Stars",
+            "created_at": "2026-10-21T14:41:30.601720"
+        },
+        "24": {
+            "user_id": 8370584907,
+            "amount": 5.0,
+            "method": "Админ",
+            "created_at": "2026-10-21T14:46:56.707100"
+        },
+        "25": {
+            "user_id": 7710642401,
+            "amount": 40.0,
+            "method": "Stars",
+            "created_at": "2026-10-21T15:44:49.484316"
+        },
+        "26": {
+            "user_id": 7710642401,
+            "amount": 10.0,
+            "method": "Stars",
+            "created_at": "2026-10-21T15:55:08.607691"
+        },
+        "27": {
+            "user_id": 6142446810,
+            "amount": 9.8158857324,
+            "method": "Crypto Bot",
+            "created_at": "2026-10-22T17:52:50.559213"
+        },
+        "28": {
+            "user_id": 7710642401,
+            "amount": 10.0,
+            "method": "Админ",
+            "created_at": "2026-10-24T18:16:18.597891"
+        },
+        "29": {
+            "user_id": 8668294876,
+            "amount": 40.0,
+            "method": "Админ",
+            "created_at": "2026-10-24T18:19:54.287694"
+        },
+        "30": {
+            "user_id": 5410996420,
+            "amount": 39.0,
+            "method": "Админ",
+            "created_at": "2026-10-24T18:20:53.174028"
+        },
+        "31": {
+            "user_id": 6142446810,
+            "amount": 100.0,
+            "method": "Админ",
+            "created_at": "2026-10-25T19:10:34.727136"
+        },
+        "32": {
+            "user_id": 5334981591,
+            "amount": 40.0,
+            "method": "Stars",
+            "created_at": "2026-10-26T15:42:41.754484"
+        },
+        "33": {
+            "user_id": 6997318168,
+            "amount": 100.0,
+            "method": "Админ",
+            "created_at": "2026-10-28T04:52:58.348640"
+        },
+        "34": {
+            "user_id": 1076925066,
+            "amount": 60.0,
+            "method": "Stars",
+            "created_at": "2026-10-28T15:59:44.652136"
+        }
+    },
+    "accounts": {},
+    "userbot_sessions": {},
+    "purchase_history": {
+        "1": {
+            "user_id": 6997318168,
+            "phone": "+573185549356",
+            "country": "Колумбия",
+            "price": 100.0,
+            "created_at": "2026-10-15T20:36:42.722078"
+        },
+        "2": {
+            "user_id": 6997318168,
+            "phone": "+573185549356",
+            "country": "Колумбия",
+            "price": 100.0,
+            "created_at": "2026-10-15T20:56:20.365882"
+        },
+        "3": {
+            "user_id": 6997318168,
+            "phone": "+15735020572",
+            "country": "США",
+            "price": 39.0,
+            "created_at": "2026-10-18T10:47:48.328126"
+        },
+        "4": {
+            "user_id": 8668294876,
+            "phone": "+959768249907",
+            "country": "Мьянма",
+            "price": 41.0,
+            "created_at": "2026-10-18T15:23:33.894905"
+        },
+        "5": {
+            "user_id": 2095418632,
+            "phone": "+573019969585",
+            "country": "Колумбия",
+            "price": 43.0,
+            "created_at": "2026-10-18T17:11:56.175029"
+        },
+        "6": {
+            "user_id": 8668294876,
+            "phone": "+5548984371060",
+            "country": "Бразилия",
+            "price": 80.0,
+            "created_at": "2026-10-18T17:15:23.861963"
+        },
+        "7": {
+            "user_id": 7710642401,
+            "phone": "+8801818772669",
+            "country": "Бангладеш",
+            "price": 38.0,
+            "created_at": "2026-10-19T09:23:22.265584"
+        },
+        "8": {
+            "user_id": 7632682746,
+            "phone": "+2347034402353",
+            "country": "Нигерия",
+            "price": 39.0,
+            "created_at": "2026-10-19T09:45:27.500440"
+        },
+        "9": {
+            "user_id": 1680868635,
+            "phone": "+8801889697063",
+            "country": "Бангладеш",
+            "price": 39.0,
+            "created_at": "2026-10-19T11:27:04.438684"
+        },
+        "10": {
+            "user_id": 6352201985,
+            "phone": "+959779076034",
+            "country": "Мьянма",
+            "price": 39.0,
+            "created_at": "2026-10-19T13:22:10.899324"
+        },
+        "11": {
+            "user_id": 6352201985,
+            "phone": "+66628016008",
+            "country": "Таиланд",
+            "price": 45.0,
+            "created_at": "2026-10-19T13:26:22.093194"
+        },
+        "12": {
+            "user_id": 1181940422,
+            "phone": "+573189686767",
+            "country": "Колумбия",
+            "price": 42.0,
+            "created_at": "2026-10-19T17:35:25.184120"
+        },
+        "13": {
+            "user_id": 1181940422,
+            "phone": "+573216688513",
+            "country": "Колумбия",
+            "price": 42.0,
+            "created_at": "2026-10-19T19:08:54.524041"
+        },
+        "14": {
+            "user_id": 1680868635,
+            "phone": "+16723203719",
+            "country": "Канада",
+            "price": 41.0,
+            "created_at": "2026-10-20T15:14:21.434312"
+        },
+        "15": {
+            "user_id": 5410996420,
+            "phone": "+19412133280",
+            "country": "США",
+            "price": 41.0,
+            "created_at": "2026-10-21T09:24:34.297695"
+        },
+        "16": {
+            "user_id": 5410996420,
+            "phone": "+8801356562859",
+            "country": "Бангладеш",
+            "price": 39.0,
+            "created_at": "2026-10-21T10:42:32.502746"
+        },
+        "17": {
+            "user_id": 2060657634,
+            "phone": "+573169825773",
+            "country": "Колумбия",
+            "price": 41.0,
+            "created_at": "2026-10-21T14:41:48.745802"
+        },
+        "18": {
+            "user_id": 7710642401,
+            "phone": "+256790015008",
+            "country": "Уганда",
+            "price": 44.0,
+            "created_at": "2026-10-21T15:55:17.312614"
+        },
+        "19": {
+            "user_id": 7710642401,
+            "phone": "+5521979369538",
+            "country": "Бразилия",
+            "price": 54.0,
+            "created_at": "2026-10-24T18:16:38.730851"
+        },
+        "20": {
+            "user_id": 8668294876,
+            "phone": "+959767716592",
+            "country": "Мьянма",
+            "price": 40.0,
+            "created_at": "2026-10-24T18:20:35.585508"
+        },
+        "21": {
+            "user_id": 5410996420,
+            "phone": "+919762090851",
+            "country": "Индия",
+            "price": 39.0,
+            "created_at": "2026-10-24T18:22:06.083275"
+        },
+        "22": {
+            "user_id": 5334981591,
+            "phone": "+15402155850",
+            "country": "США",
+            "price": 40.0,
+            "created_at": "2026-10-26T15:42:49.844858"
+        },
+        "23": {
+            "user_id": 1680868635,
+            "phone": "+959757224629",
+            "country": "Мьянма",
+            "price": 40.0,
+            "created_at": "2026-10-26T20:00:55.869989"
+        },
+        "24": {
+            "user_id": 6997318168,
+            "phone": "+21656619152",
+            "country": "Тунис",
+            "price": 56.0,
+            "created_at": "2026-10-28T04:53:04.009707"
+        },
+        "25": {
+            "user_id": 1076925066,
+            "phone": "+967770637125",
+            "country": "Йемен",
+            "price": 60.0,
+            "created_at": "2026-10-28T16:00:08.317762"
+        }
+    },
+    "orders": {
+        "1": {
+            "phone": "+573185549356",
+            "buyer_id": 6997318168,
+            "status": "ожидает_код",
+            "created_at": "2026-10-15T20:36:42.733370"
+        },
+        "2": {
+            "phone": "+573185549356",
+            "buyer_id": 6997318168,
+            "status": "ожидает_код",
+            "created_at": "2026-10-15T20:56:20.372381"
+        },
+        "3": {
+            "phone": "+15735020572",
+            "buyer_id": 6997318168,
+            "status": "ожидает_код",
+            "created_at": "2026-10-18T10:47:48.333527"
+        },
+        "4": {
+            "phone": "+959768249907",
+            "buyer_id": 8668294876,
+            "status": "ожидает_код",
+            "created_at": "2026-10-18T15:23:33.902471"
+        },
+        "5": {
+            "phone": "+573019969585",
+            "buyer_id": 2095418632,
+            "status": "ожидает_код",
+            "created_at": "2026-10-18T17:11:56.188770"
+        },
+        "6": {
+            "phone": "+5548984371060",
+            "buyer_id": 8668294876,
+            "status": "ожидает_код",
+            "created_at": "2026-10-18T17:15:23.876603"
+        },
+        "7": {
+            "phone": "+8801818772669",
+            "buyer_id": 7710642401,
+            "status": "ожидает_код",
+            "created_at": "2026-10-19T09:23:22.275669"
+        },
+        "8": {
+            "phone": "+2347034402353",
+            "buyer_id": 7632682746,
+            "status": "ожидает_код",
+            "created_at": "2026-10-19T09:45:27.509362"
+        },
+        "9": {
+            "phone": "+8801889697063",
+            "buyer_id": 1680868635,
+            "status": "ожидает_код",
+            "created_at": "2026-10-19T11:27:04.450854"
+        },
+        "10": {
+            "phone": "+959779076034",
+            "buyer_id": 6352201985,
+            "status": "ожидает_код",
+            "created_at": "2026-10-19T13:22:10.914532"
+        },
+        "11": {
+            "phone": "+66628016008",
+            "buyer_id": 6352201985,
+            "status": "ожидает_код",
+            "created_at": "2026-10-19T13:26:22.107537"
+        },
+        "12": {
+            "phone": "+573189686767",
+            "buyer_id": 1181940422,
+            "status": "ожидает_код",
+            "created_at": "2026-10-19T17:35:25.195294"
+        },
+        "13": {
+            "phone": "+573216688513",
+            "buyer_id": 1181940422,
+            "status": "ожидает_код",
+            "created_at": "2026-10-19T19:08:54.535427"
+        },
+        "14": {
+            "phone": "+16723203719",
+            "buyer_id": 1680868635,
+            "status": "ожидает_код",
+            "created_at": "2026-10-20T15:14:21.445317"
+        },
+        "15": {
+            "phone": "+19412133280",
+            "buyer_id": 5410996420,
+            "status": "ожидает_код",
+            "created_at": "2026-10-21T09:24:34.307900"
+        },
+        "16": {
+            "phone": "+8801356562859",
+            "buyer_id": 5410996420,
+            "status": "ожидает_код",
+            "created_at": "2026-10-21T10:42:32.509750"
+        },
+        "17": {
+            "phone": "+573169825773",
+            "buyer_id": 2060657634,
+            "status": "ожидает_код",
+            "created_at": "2026-10-21T14:41:48.757879"
+        },
+        "18": {
+            "phone": "+256790015008",
+            "buyer_id": 7710642401,
+            "status": "ожидает_код",
+            "created_at": "2026-10-21T15:55:17.323433"
+        },
+        "19": {
+            "phone": "+5521979369538",
+            "buyer_id": 7710642401,
+            "status": "ожидает_код",
+            "created_at": "2026-10-24T18:16:38.750206"
+        },
+        "20": {
+            "phone": "+959767716592",
+            "buyer_id": 8668294876,
+            "status": "ожидает_код",
+            "created_at": "2026-10-24T18:20:35.598668"
+        },
+        "21": {
+            "phone": "+919762090851",
+            "buyer_id": 5410996420,
+            "status": "ожидает_код",
+            "created_at": "2026-10-24T18:22:06.096845"
+        },
+        "22": {
+            "phone": "+15402155850",
+            "buyer_id": 5334981591,
+            "status": "ожидает_код",
+            "created_at": "2026-10-26T15:42:49.859839"
+        },
+        "23": {
+            "phone": "+959757224629",
+            "buyer_id": 1680868635,
+            "status": "ожидает_код",
+            "created_at": "2026-10-26T20:00:55.888994"
+        },
+        "24": {
+            "phone": "+21656619152",
+            "buyer_id": 6997318168,
+            "status": "ожидает_код",
+            "created_at": "2026-10-28T04:53:04.027259"
+        },
+        "25": {
+            "phone": "+967770637125",
+            "buyer_id": 1076925066,
+            "status": "ожидает_код",
+            "created_at": "2026-10-28T16:00:08.331474"
+        }
+    },
+    "sold_accounts": {
+        "1": {
+            "country_name": "Колумбия",
+            "country_flag": "🇨🇴",
+            "country_code": "Колумбия",
+            "acc_type": "обычный",
+            "price": 100.0,
+            "phone": "+573185549356",
+            "password": null,
+            "has_session": true,
+            "added_at": "2026-10-15T20:36:23.260169",
+            "year": null,
+            "buyer_id": 6997318168,
+            "sold_at": "2026-10-15T20:36:42.744850"
+        },
+        "2": {
+            "country_name": "Колумбия",
+            "country_flag": "🇨🇴",
+            "country_code": "Колумбия",
+            "acc_type": "обычный",
+            "price": 100.0,
+            "phone": "+573185549356",
+            "password": null,
+            "has_session": true,
+            "added_at": "2026-10-15T20:38:28.933964",
+            "year": null,
+            "buyer_id": 6997318168,
+            "sold_at": "2026-10-15T20:56:20.386779"
+        },
+        "3": {
+            "country_name": "США",
+            "country_flag": "🇺🇸",
+            "country_code": "США",
+            "acc_type": "обычный",
+            "price": 39.0,
+            "phone": "+15735020572",
+            "password": null,
+            "has_session": true,
+            "added_at": "2026-10-17T11:43:12.168965",
+            "year": null,
+            "buyer_id": 6997318168,
+            "sold_at": "2026-10-18T10:47:48.350204"
+        },
+        "4": {
+            "country_name": "Мьянма",
+            "country_flag": "🇲🇲",
+            "country_code": "Мьянма",
+            "acc_type": "обычный",
+            "price": 41.0,
+            "phone": "+959768249907",
+            "password": null,
+            "has_session": true,
+            "added_at": "2026-10-17T11:12:19.061539",
+            "year": null,
+            "buyer_id": 8668294876,
+            "sold_at": "2026-10-18T15:23:33.918184"
+        },
+        "5": {
+            "country_name": "Колумбия",
+            "country_flag": "🇨🇴",
+            "country_code": "Колумбия",
+            "acc_type": "обычный",
+            "price": 43.0,
+            "phone": "+573019969585",
+            "password": null,
+            "has_session": true,
+            "added_at": "2026-10-17T11:09:16.503954",
+            "year": null,
+            "buyer_id": 2095418632,
+            "sold_at": "2026-10-18T17:11:56.221076"
+        },
+        "6": {
+            "country_name": "Бразилия",
+            "country_flag": "🇧🇷",
+            "country_code": "Бразилия",
+            "acc_type": "отлега",
+            "price": 80.0,
+            "phone": "+5548984371060",
+            "password": null,
+            "has_session": true,
+            "added_at": "2026-10-17T11:16:30.969788",
+            "year": 3,
+            "buyer_id": 8668294876,
+            "sold_at": "2026-10-18T17:15:23.901150"
+        },
+        "7": {
+            "country_name": "Бангладеш",
+            "country_flag": "🇧🇩",
+            "country_code": "Бангладеш",
+            "acc_type": "обычный",
+            "price": 38.0,
+            "phone": "+8801818772669",
+            "password": null,
+            "has_session": true,
+            "added_at": "2026-10-19T07:18:26.860768",
+            "year": null,
+            "buyer_id": 7710642401,
+            "sold_at": "2026-10-19T09:23:22.295300"
+        },
+        "8": {
+            "country_name": "Нигерия",
+            "country_flag": "🇳🇬",
+            "country_code": "Нигерия",
+            "acc_type": "обычный",
+            "price": 39.0,
+            "phone": "+2347034402353",
+            "password": null,
+            "has_session": true,
+            "added_at": "2026-10-19T08:12:10.048233",
+            "year": null,
+            "buyer_id": 7632682746,
+            "sold_at": "2026-10-19T09:45:27.526482"
+        },
+        "9": {
+            "country_name": "Бангладеш",
+            "country_flag": "🇧🇩",
+            "country_code": "Бангладеш",
+            "acc_type": "обычный",
+            "price": 39.0,
+            "phone": "+8801889697063",
+            "password": null,
+            "has_session": true,
+            "added_at": "2026-10-19T11:06:39.373069",
+            "year": null,
+            "buyer_id": 1680868635,
+            "sold_at": "2026-10-19T11:27:04.474341"
+        },
+        "10": {
+            "country_name": "Мьянма",
+            "country_flag": "🇲🇲",
+            "country_code": "Мьянма",
+            "acc_type": "обычный",
+            "price": 39.0,
+            "phone": "+959779076034",
+            "password": null,
+            "has_session": true,
+            "added_at": "2026-10-19T07:14:47.839004",
+            "year": null,
+            "buyer_id": 6352201985,
+            "sold_at": "2026-10-19T13:22:10.940176"
+        },
+        "11": {
+            "country_name": "Таиланд",
+            "country_flag": "🇹🇭",
+            "country_code": "Таиланд",
+            "acc_type": "обычный",
+            "price": 45.0,
+            "phone": "+66628016008",
+            "password": null,
+            "has_session": true,
+            "added_at": "2026-10-19T12:16:35.921342",
+            "year": null,
+            "buyer_id": 6352201985,
+            "sold_at": "2026-10-19T13:26:22.147082"
+        },
+        "12": {
+            "country_name": "Колумбия",
+            "country_flag": "🇨🇴",
+            "country_code": "Колумбия",
+            "acc_type": "обычный",
+            "price": 42.0,
+            "phone": "+573189686767",
+            "password": null,
+            "has_session": true,
+            "added_at": "2026-10-19T06:56:16.011474",
+            "year": null,
+            "buyer_id": 1181940422,
+            "sold_at": "2026-10-19T17:35:25.218847"
+        },
+        "13": {
+            "country_name": "Колумбия",
+            "country_flag": "🇨🇴",
+            "country_code": "Колумбия",
+            "acc_type": "обычный",
+            "price": 42.0,
+            "phone": "+573216688513",
+            "password": null,
+            "has_session": true,
+            "added_at": "2026-10-19T18:39:32.819194",
+            "year": null,
+            "buyer_id": 1181940422,
+            "sold_at": "2026-10-19T19:08:54.554042"
+        },
+        "14": {
+            "country_name": "Канада",
+            "country_flag": "🇨🇦",
+            "country_code": "Канада",
+            "acc_type": "обычный",
+            "price": 41.0,
+            "phone": "+16723203719",
+            "password": null,
+            "has_session": true,
+            "added_at": "2026-10-20T14:09:39.628793",
+            "year": null,
+            "buyer_id": 1680868635,
+            "sold_at": "2026-10-20T15:14:21.467573"
+        },
+        "15": {
+            "country_name": "США",
+            "country_flag": "🇺🇸",
+            "country_code": "США",
+            "acc_type": "обычный",
+            "price": 41.0,
+            "phone": "+19412133280",
+            "password": null,
+            "has_session": true,
+            "added_at": "2026-10-20T15:13:23.707828",
+            "year": null,
+            "buyer_id": 5410996420,
+            "sold_at": "2026-10-21T09:24:34.329632"
+        },
+        "16": {
+            "country_name": "Бангладеш",
+            "country_flag": "🇧🇩",
+            "country_code": "Бангладеш",
+            "acc_type": "обычный",
+            "price": 39.0,
+            "phone": "+8801356562859",
+            "password": null,
+            "has_session": true,
+            "added_at": "2026-10-20T15:22:57.892217",
+            "year": null,
+            "buyer_id": 5410996420,
+            "sold_at": "2026-10-21T10:42:32.525110"
+        },
+        "17": {
+            "country_name": "Колумбия",
+            "country_flag": "🇨🇴",
+            "country_code": "Колумбия",
+            "acc_type": "обычный",
+            "price": 41.0,
+            "phone": "+573169825773",
+            "password": "33334444",
+            "has_session": true,
+            "added_at": "2026-10-20T15:43:19.785143",
+            "year": null,
+            "buyer_id": 2060657634,
+            "sold_at": "2026-10-21T14:41:48.780514"
+        },
+        "18": {
+            "country_name": "Уганда",
+            "country_flag": "🇺🇬",
+            "country_code": "Уганда",
+            "acc_type": "обычный",
+            "price": 44.0,
+            "phone": "+256790015008",
+            "password": null,
+            "has_session": true,
+            "added_at": "2026-10-19T09:23:30.119702",
+            "year": null,
+            "buyer_id": 7710642401,
+            "sold_at": "2026-10-21T15:55:17.343417"
+        },
+        "19": {
+            "country_name": "Бразилия",
+            "country_flag": "🇧🇷",
+            "country_code": "Бразилия",
+            "acc_type": "обычный",
+            "price": 54.0,
+            "phone": "+5521979369538",
+            "password": null,
+            "has_session": true,
+            "added_at": "2026-10-24T17:56:02.657133",
+            "year": null,
+            "buyer_id": 7710642401,
+            "sold_at": "2026-10-24T18:16:38.789399"
+        },
+        "20": {
+            "country_name": "Мьянма",
+            "country_flag": "🇲🇲",
+            "country_code": "Мьянма",
+            "acc_type": "обычный",
+            "price": 40.0,
+            "phone": "+959767716592",
+            "password": null,
+            "has_session": true,
+            "added_at": "2026-10-24T17:51:18.786761",
+            "year": null,
+            "buyer_id": 8668294876,
+            "sold_at": "2026-10-24T18:20:35.625539"
+        },
+        "21": {
+            "country_name": "Индия",
+            "country_flag": "🇮🇳",
+            "country_code": "Индия",
+            "acc_type": "обычный",
+            "price": 39.0,
+            "phone": "+919762090851",
+            "password": null,
+            "has_session": true,
+            "added_at": "2026-10-24T17:58:22.155709",
+            "year": null,
+            "buyer_id": 5410996420,
+            "sold_at": "2026-10-24T18:22:06.127763"
+        },
+        "22": {
+            "country_name": "США",
+            "country_flag": "🇺🇸",
+            "country_code": "США",
+            "acc_type": "обычный",
+            "price": 40.0,
+            "phone": "+15402155850",
+            "password": null,
+            "has_session": true,
+            "added_at": "2026-10-26T15:13:23.872555",
+            "year": null,
+            "buyer_id": 5334981591,
+            "sold_at": "2026-10-26T15:42:49.896539"
+        },
+        "23": {
+            "country_name": "Мьянма",
+            "country_flag": "🇲🇲",
+            "country_code": "Мьянма",
+            "acc_type": "обычный",
+            "price": 40.0,
+            "phone": "+959757224629",
+            "password": null,
+            "has_session": true,
+            "added_at": "2026-10-26T15:03:56.171125",
+            "year": null,
+            "buyer_id": 1680868635,
+            "sold_at": "2026-10-26T20:00:55.928338"
+        },
+        "24": {
+            "country_name": "Тунис",
+            "country_flag": "🇹🇳",
+            "country_code": "Тунис",
+            "acc_type": "обычный",
+            "price": 56.0,
+            "phone": "+21656619152",
+            "password": "33334444",
+            "has_session": true,
+            "added_at": "2026-10-27T15:05:35.268789",
+            "year": null,
+            "buyer_id": 6997318168,
+            "sold_at": "2026-10-28T04:53:04.056575"
+        },
+        "25": {
+            "country_name": "Йемен",
+            "country_flag": "🇾🇪",
+            "country_code": "Йемен",
+            "acc_type": "обычный",
+            "price": 60.0,
+            "phone": "+967770637125",
+            "password": "33334444",
+            "has_session": true,
+            "added_at": "2026-10-27T10:43:25.057080",
+            "year": null,
+            "buyer_id": 1076925066,
+            "sold_at": "2026-10-28T16:00:08.350161"
+        }
+    },
+    "promocodes": {
+        "1": {
+            "code": "RAPTATOR",
+            "amount": 20.0,
+            "activations": 0,
+            "created_at": "2026-10-17T16:07:19.579569",
+            "exhausted_at": "2026-10-17T16:07:29.991302"
+        },
+        "3": {
+            "code": "START50",
+            "amount": 25.0,
+            "activations": 0,
+            "created_at": "2026-10-21T16:18:46.257135",
+            "exhausted_at": "2026-10-21T16:47:44.140028"
+        },
+        "4": {
+            "code": "DHSJOSO",
+            "amount": 20.0,
+            "activations": 0,
+            "created_at": "2026-10-21T17:30:53.864719",
+            "exhausted_at": "2026-10-21T17:33:59.791764"
+        }
+    },
+    "giveaways": {
+        "1": {
+            "prize": "Мишку",
+            "total": 55,
+            "participants": [],
+            "message_ids": {},
+            "status": "active",
+            "created_by": 6997318168,
+            "created_at": "2026-10-25T19:09:06.663087",
+            "finished_at": null,
+            "winner_id": null,
+            "winner_score": null
+        }
+    }
+}
